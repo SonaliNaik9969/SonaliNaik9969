@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @SonaliNaik9969
+- 👀 I’m exploring Java, Python and PHP programming language...
+- 🌱 I’m currently learning to create a website using Bootstrap...
+- 📫 Reach me on Github
+
+
